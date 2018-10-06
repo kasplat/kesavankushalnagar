@@ -1,8 +1,11 @@
 ---
 layout: default
-img: ipad.png
+img: symantec_logo.jpg
 category: Experience
-title: Death to the Stock Photo:<br>Special Thanks
+title: Symantec<br>Software Engineering Intern
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+* Created Django web application for SQL queries on Oracle Database. Improved Query time from 5 minutes to seconds. 
+* Provisioned app on AWS.
+* Bootstrap and Angular Front end.
+* Used Ansible and Jenkins to automate testing and deployment.
