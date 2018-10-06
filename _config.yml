@@ -23,9 +23,14 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: github
+  - icon: envelope-o
+    title: email
+    url: mailto:kesavan.kushalnagar@gmail.com
+  - icon: github
+    title: github
     url: https://github.com/kasplat
-  - title: linkedin
+  - icon: linkedin
+    title: linkedin
     url: https://www.linkedin.com/in/kesavan-kushalnagar/
   - icon: file-pdf-o
     title: resume
