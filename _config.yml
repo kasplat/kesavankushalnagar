@@ -27,5 +27,6 @@ social:
     url: https://github.com/kasplat
   - title: linkedin
     url: https://www.linkedin.com/in/kesavan-kushalnagar/
-  - title: resume
+  - icon: file-pdf-o
+    title: resume
     url: https://resume.creddle.io/resume/ji477weh5rx
