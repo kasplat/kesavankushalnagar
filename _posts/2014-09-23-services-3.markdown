@@ -2,7 +2,10 @@
 layout: default
 img: phones.png
 category: Experience
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Computational Biology Lab at RIT<br>Research Assistant
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+* Reduce input space of electrophysiological model using DBSCAN. 
+* Research using various clustering methods. 
+* Perform forward propagation to estimate probability of arrhythmia. 
+* Languages used: Matlab, Python.

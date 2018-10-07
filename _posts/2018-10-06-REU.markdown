@@ -2,10 +2,11 @@
 layout: default
 img: REU_signing_image.png
 category: Experience
-title: Research Experience for Undergraduates; Accessible Multimodal Interfaces
+title: Research Experience for Undergraduates<br>Accessible Multimodal Interfaces
 description: |
 ---
-* Reduce input space of electrophysiological model using DBSCAN. 
-* Research using various clustering methods. 
-* Perform forward propagation to estimate probability of arrhythmia. 
-* Languages used: Matlab, Python.
+* In Professor <a href="https://www.linkedin.com/in/gary-behm-1b00a1aa/">Gary Behm</a>'s lab (), researched and prototyped several tools to improve accessible computing for deaf people. 
+* Analysed large speech dataset using natural language processing technologies to create metric for deaf speech. 
+* Used metric to measure effectiveness Automatic Speech Recognition is for deaf speech.
+* Developed Kinect app to show possible signs from a given hand position. 
+* Languages used: Python, R, NLTK, Git.
