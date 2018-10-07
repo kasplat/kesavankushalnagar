@@ -1,0 +1,11 @@
+---
+layout: default
+img: REU_signing_image.png
+category: Experience
+title: Research Experience for Undergraduates; Accessible Multimodal Interfaces
+description: |
+---
+* Reduce input space of electrophysiological model using DBSCAN. 
+* Research using various clustering methods. 
+* Perform forward propagation to estimate probability of arrhythmia. 
+* Languages used: Matlab, Python.
