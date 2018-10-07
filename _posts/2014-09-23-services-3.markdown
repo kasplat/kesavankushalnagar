@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: uncertainty_heart_model.png
 category: Experience
 title: Computational Biology Lab at RIT<br>Research Assistant
 description: |
