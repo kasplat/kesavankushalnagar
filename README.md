@@ -1,35 +1,7 @@
-# Landing Page Jekyll theme
+# Kesavan Kushalnagar's Personal Website
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+The website can be visited here: <https://kesavankushalnagar.xyz/>
 
-## How to use
- - Place a image in `/img/experience/`
- - Create posts to display your experience. Use the follow as an example:
+This was based on Wesley's Guide here <https://medium.com/thoughts-and-notes/tool-build-a-personal-website-using-jekyll-blog-framework-7fd49c43be42>. It's really great, definitely worth checking out!
 
-```txt
----
-layout: default
-img: ipad.png
-category: Experience
-title: The service title
----
-The description of this service
-```
-
-## Demo
-View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
-
-===
-
-For more Jekyll details, read [documentation](http://jekyllrb.com/).
-This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
-
-## License
-The contents of this repository are licensed under the [Apache
-2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
-
-## Version
-1.0.1
+I use particle.js and the bootstrap jeykll fraemwork. They are both linked on the website in the footer.
