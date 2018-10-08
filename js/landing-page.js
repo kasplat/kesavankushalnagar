@@ -29,6 +29,7 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+
 particlesJS('particles-js',
     {
     "particles": {
