@@ -5,7 +5,7 @@ category: Experience
 title: Research Experience for Undergraduates<br>Accessible Multimodal Interfaces
 description: |
 ---
-* In Professor <a href="https://www.linkedin.com/in/gary-behm-1b00a1aa/">Gary Behm</a>'s lab (), researched and prototyped several tools to improve accessible computing for deaf people. 
+* In Professor <a href="https://www.linkedin.com/in/gary-behm-1b00a1aa/">Gary Behm</a>'s lab, researched and prototyped several tools to improve accessible computing for deaf people. 
 * Analysed large speech dataset using natural language processing technologies to create metric for deaf speech. 
 * Used metric to measure effectiveness Automatic Speech Recognition is for deaf speech.
 * Developed Kinect app to show possible signs from a given hand position. 
