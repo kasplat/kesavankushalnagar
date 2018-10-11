@@ -1,0 +1,10 @@
+---
+layout: default
+img: symantec_logo.jpg
+category: Projects
+title: YuGANoh<br>Generative Adverserial Network for new Yu-Gi-Oh! Cards
+description: |
+---
+* Created a Generative Adversarial Network using a database of thousands of Yu-Gi-Oh Card Arts at DandyHacks 2018.
+* Generated 16 interesting card arts.
+* Technologies used: Python, PyTorch
