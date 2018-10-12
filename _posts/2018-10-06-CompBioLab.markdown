@@ -2,7 +2,7 @@
 layout: default
 img: uncertainty_heart_model.png
 alt: Pixellated Image of Heart Model
-category: Experience
+category: Experiences
 title: Computational Biology Lab at RIT<br>Research Assistant
 description: |
 ---

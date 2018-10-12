@@ -1,7 +1,7 @@
 ---
 layout: default
 img: symantec_logo.jpg
-category: Experience
+category: Experiences
 title: Symantec<br>Software Engineering Intern
 description: |
 ---

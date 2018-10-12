@@ -1,7 +1,7 @@
 ---
 layout: default
 img: REU_signing_image.png
-category: Experience
+category: Experiences
 title: Research Experience for Undergraduates<br>Accessible Multimodal Interfaces
 description: |
 ---
