@@ -2,7 +2,7 @@
 layout: default
 img: voiceCalc.png
 category: Projects
-title: YuGANoh<br>Generative Adverserial Network for new Yu-Gi-Oh! Cards
+title: Yugioh Life Calculator<br>Google Assistant App
 description: |
 ---
 * Creating a Google Voice Assistant Calculator app that keeps track of life points in Yugioh.
