@@ -1,6 +1,6 @@
 ---
 layout: default
-img: voiceCalc.png
+img: voicecalc.png
 category: Projects
 title: Yugioh Life Calculator<br>Google Assistant App
 description: |
