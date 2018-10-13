@@ -1,6 +1,6 @@
 ---
 layout: default
-img: yuGANoh.jpg
+img: yuGANohAnimated.gif
 category: Projects
 title: YuGANoh<br>Generative Adverserial Network for new Yu-Gi-Oh! Cards
 description: |
