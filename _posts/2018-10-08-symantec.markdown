@@ -5,7 +5,8 @@ category: Experiences
 title: Symantec<br>Software Engineering Intern
 description: |
 ---
-* Created Django web application for SQL queries on Oracle Database. Improved Query time from 5 minutes to seconds.
-* Provisioned app on AWS.
-* Bootstrap and Angular Front end.
-* Used Ansible and Jenkins to automate testing and deployment.
+* Created Django web application for SQL queries on Oracle Database hosted in AWS.
+* Improved Query time from 5 minutes to seconds.
+* Created test suite using Robot framework and Django REST test.
+* Automated testing and deployment using ansible, cloud formation templates, and Jenkins.
+* Technologies used: Django, Python, Ansible, Jenkins, Amazon Web Services, Bootstrap, Angular.js

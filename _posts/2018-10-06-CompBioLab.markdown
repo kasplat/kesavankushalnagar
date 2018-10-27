@@ -6,7 +6,10 @@ category: Experiences
 title: Computational Biology Lab at RIT<br>Research Assistant
 description: |
 ---
-* Reduce input space of electrophysiological model using DBSCAN. 
-* Research using various clustering methods. 
-* Perform forward propagation to estimate probability of arrhythmia. 
-* Languages used: Matlab, Python.
+* Use Machine Learning to reduce complexity of model inputs.
+* Quantified Uncertainty in electrophysiological model using uncertainty quantification techniques.
+* Predict arrhythmia in patients with prior heart attacks using in lab model.
+* Research using various clustering methods such as DBSCAN and hierarchical. 
+* Perform forward propagation on model.
+* Presented paper and results at SIAM Annual Meeting 2018.
+* Languages used: Matlab, Python, R.
