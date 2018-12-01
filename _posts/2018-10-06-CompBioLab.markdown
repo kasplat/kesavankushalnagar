@@ -13,3 +13,4 @@ description: |
 * Perform forward propagation on model.
 * Presented paper and results at SIAM Annual Meeting 2018.
 * Languages used: Matlab, Python, R.
+Citation: <b>Kushalnagar,K.</b>, Dhamala Jwala, & Wang, Linwei. Forward Uncertainty Propagation inCardiac Electrophysiological Model. Conference talk given at 2018 SIAM Annual meeting.http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=65035Contactkesavan

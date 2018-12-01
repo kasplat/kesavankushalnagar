@@ -10,3 +10,6 @@ description: |
 * Used metric to measure effectiveness Automatic Speech Recognition is for deaf speech.
 * Developed Kinect app to show possible signs from a given hand position. 
 * Languages used: Python, R, NLTK, Git.
+Citations: 
+* Glasser, A. T., Kushalnagar,K. R., & Kushalnagar, R. S. (2017, October). Feasibility of Using Automatic Speech Recognition with Voices of Deaf and Hard-of-Hearing Individuals. In Proceedings of the 19th International ACM SIGACCESS Conference on Computers and Accessibility (pp. 373-374). ACM.
+* Glasser, A., Kushalnagar,K., & Kushalnagar, R. (2017, October). Deaf, Hard of Hearing, and Hearing Perspectives on Using Automatic Speech Recognition in Conversation. In Proceedings of the 19th International ACM SIGACCESS Conference on Computers and Accessibility (pp. 427-432). ACM.
