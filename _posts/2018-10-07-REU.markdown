@@ -5,12 +5,14 @@ category: Experiences
 title: Research Experience for Undergraduates<br>Accessible Multimodal Interfaces
 description: |
 ---
-* In Professor Gary Behm's lab (https://www.linkedin.com/in/gary-behm-1b00a1aa/), researched and prototyped several tools to improve accessible computing for deaf people. 
+* In Professor Gary Behm's lab (https://www.linkedin.com/in/gary-behm-1b00a1aa/), researched and prototyped several tools to improve accessible computing for deaf people.
 * Analysed large speech dataset using natural language processing technologies to create metric for deaf speech. 
 * Used metric to measure effectiveness Automatic Speech Recognition is for deaf speech.
 * Developed Kinect app to show possible signs from a given hand position. 
 * Languages used: Python, R, NLTK, Git.
-Citations: 
+
+Citations:
+
 * Glasser, A. T., Kushalnagar,K. R., & Kushalnagar, R. S. (2017, October). Feasibility of Using Automatic Speech Recognition with Voices of Deaf and Hard-of-Hearing Individuals. In Proceedings of the 19th International ACM SIGACCESS Conference on Computers and Accessibility (pp. 373-374). ACM.
 * Glasser, A., Kushalnagar,K., & Kushalnagar, R. (2017, October). Deaf, Hard of Hearing, and Hearing Perspectives on Using Automatic Speech Recognition in Conversation. In Proceedings of the 19th International ACM SIGACCESS Conference on Computers and Accessibility (pp. 427-432). ACM.
 * Kushalnagar R., Kushalnagar K. (2018) SubtitleFormatter: Making Subtitles Easier to Read for Deaf and Hard of Hearing Viewers on Personal Devices. In: Miesenberger K., Kouroupetroglou G. (eds) Computers Helping People with Special Needs. ICCHP 2018. Lecture Notes in Computer Science, vol 10896. Springer, Cham
